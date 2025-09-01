@@ -1,0 +1,1 @@
+/* manifest.json from public/manifest.json {must} */
